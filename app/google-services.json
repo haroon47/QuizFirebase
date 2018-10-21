@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "706289894076",
+    "firebase_url": "https://miniquiz-92d1f.firebaseio.com",
+    "project_id": "miniquiz-92d1f",
+    "storage_bucket": "miniquiz-92d1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706289894076:android:e0829bedb640707f",
+        "android_client_info": {
+          "package_name": "haroonstudios.myquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706289894076-9j14882ptfuo5h5gdpo49cp8inh9iead.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpDejLvsjaNmyFM2Y_sRhD8tA40blRmpU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
